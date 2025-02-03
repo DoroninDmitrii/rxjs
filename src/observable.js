@@ -1,4 +1,4 @@
-const { Observable } = require("rxjs");
+import { Observable } from "rxjs";
 
 // const observable$ = new Observable(observer => {
 //   observer.next(1);
